@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- <trip id="0" depart="0.00" from="1025056904#9" to="-1024116590#6"/> -->
+
+    <trip id="0_1" depart="0.00" from="371064289#0" to="1022839361#1"/>
+    <trip id="0_2" depart="100.00" from="-1022839361#1" to="371064300#4" />
+    <trip id="0_3" depart="200.00" from="-371064300#4" to="1025078017" />
+    <trip id="0_4" depart="300.00" from="-1025078017" to="1025054399#3"/>
+
+    <trip id="1_1" depart="400.00" from="1025119429" to="1025116609#1"/>
+    <trip id="1_2" depart="500.00" from="-1025116609#1" to="1025735383" />
+    <trip id="1_3" depart="600.00" from="-1025735383" to="1025733496" />
+
+    <trip id="2_1" depart="700.00" from="1025476629#1" to="1025422396"/>
+    <trip id="2_2" depart="800.00" from="-1025422396" to="1025428736" />
+    <trip id="2_3" depart="900.00" from="-1025428736" to="1025429823" />
+
+</routes>

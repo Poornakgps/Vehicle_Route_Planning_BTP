@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- Input files -->
+    <input>
+        <net-file value="kharagpur.net.xml"/>
+        <!-- Initial routes file can be empty or point to the generated file later -->
+        <route-files value="merged_routes_4.xml"/>
+    </input>
+
+
+</configuration>
